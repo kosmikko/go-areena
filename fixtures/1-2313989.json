@@ -1,0 +1,363 @@
+{
+    "apiVersion": "1.0.1644",
+    "data": {
+        "alternativeId": [
+            "16-1-0825685"
+        ],
+        "audio": [
+            {
+                "format": [
+                    {
+                        "inScheme": "mediaformat-classification",
+                        "key": "stereo",
+                        "type": "Concept"
+                    }
+                ],
+                "language": [
+                    "fi"
+                ],
+                "type": "AudioTrack"
+            }
+        ],
+        "collection": "main",
+        "contentRating": {
+            "ageRestriction": 16,
+            "ratingSystem": "MEKU",
+            "reason": [
+                {
+                    "key": "drugs-intoxicants",
+                    "title": {
+                        "en": "Drugs/intoxicants",
+                        "fi": "Sis\u00e4lt\u00e4\u00e4 p\u00e4ihteidenk\u00e4ytt\u00f6\u00e4",
+                        "sv": "Anv\u00e4ndning av rusmedel"
+                    },
+                    "type": "ContentRatingReason"
+                }
+            ],
+            "title": {
+                "en": "Not for persons under 16",
+                "fi": "Sallittu yli 16-vuotiaille",
+                "sv": "F\u00f6rbjudet under 16 \u00e5r"
+            },
+            "type": "ContentRating"
+        },
+        "countryOfOrigin": [
+            "Suomi"
+        ],
+        "creator": [
+            {
+                "name": "Moskito Television Oy",
+                "type": "Organization"
+            }
+        ],
+        "description": {
+            "fi": "Kotimainen draamasarja 5/10. Kaksoisrooli r\u00e4j\u00e4ht\u00e4\u00e4 silmille, mutta Krista ei aio en\u00e4\u00e4 paeta. H\u00e4n aloittaa oman jahtinsa. N: Matleena Kuusniemi, Tommi Eronen. O: Marja Pyykk\u00f6.",
+            "sv": "Inhemsk dramaserie 5/10. Dubbelrollen avsl\u00f6jas, men Krista t\u00e4nker inte l\u00e4ngre fly. Hon inleder sin egen jakt. S: Matleena Kuusniemi och Tommi Eronen. R: Marja Pyykk\u00f6."
+        },
+        "duration": "PT48M26S",
+        "episodeNumber": 5,
+        "id": "1-2313989",
+        "image": {
+            "available": true,
+            "id": "13-1-2313989",
+            "type": "ImageObject",
+            "version": 82
+        },
+        "indexDataModified": "2015-12-09T01:21:09.737+02:00",
+        "itemTitle": {},
+        "originalTitle": {
+            "unknown": "Koukussa"
+        },
+        "partOfSeries": {
+            "countryOfOrigin": [
+                "Suomi"
+            ],
+            "coverImage": {
+                "available": true,
+                "id": "13-1-2313985-cover",
+                "type": "ImageObject",
+                "version": 690
+            },
+            "creator": [
+                {
+                    "name": "Moskito Television Oy",
+                    "type": "Organization"
+                }
+            ],
+            "description": {
+                "fi": "Oletko koskaan rakastunut v\u00e4\u00e4r\u00e4\u00e4n ihmiseen? Koukussa on kymmenosainen draamasarja ihmisten riippuvuuksista - ja rakkaudesta - tunteesta, joka on vahvempi kuin j\u00e4rki ja moraali. P\u00e4\u00e4osissa: Matleena Kuusniemi ja Tommi Eronen. K\u00e4sikirjoitus: Laura Suhonen. Ohjaus: Marja Pyykk\u00f6. Tuotanto: Moskito Television Oy / Tarja Ahava & Roope Lehtinen."
+            },
+            "id": "1-2313985",
+            "image": {
+                "available": true,
+                "id": "13-1-2313985",
+                "type": "ImageObject",
+                "version": 690
+            },
+            "indexDataModified": "2016-01-16T07:56:39.677+02:00",
+            "interactions": [
+                {
+                    "title": {
+                        "fi": "Yle Uutiset 15.01.2016: Koukussa-sarja kahmi Kultainen Venla -palkintoja"
+                    },
+                    "type": "WebPage",
+                    "url": "http://yle.fi/uutiset/koukussa-sarja_kahmi_kultainen_venla_-palkintoja/8598681"
+                },
+                {
+                    "title": {
+                        "fi": "TV2: Koukussa: Karhea ja tummas\u00e4vyinen uutuusdraama Kakkosella"
+                    },
+                    "type": "WebPage",
+                    "url": "http://yle.fi/aihe/artikkeli/2015/03/24/koukussa-mustat-lesket-tekijoiden-uusi-draamasarja"
+                },
+                {
+                    "title": {
+                        "fi": "Areena-Yle Puhe 2.11.2015: Matleena Kuusniemen haastattelu"
+                    },
+                    "type": "WebPage",
+                    "url": "http://areena.yle.fi/1-3125291"
+                }
+            ],
+            "subject": [
+                {
+                    "broader": {
+                        "id": "5-131"
+                    },
+                    "id": "5-133",
+                    "inScheme": "areena-content-classification",
+                    "key": "kotimaisetsarjat",
+                    "title": {
+                        "fi": "Kotimaiset sarjat",
+                        "sv": "Inhemska serier"
+                    },
+                    "type": "Concept"
+                },
+                {
+                    "id": "5-262",
+                    "inScheme": "areena-analytics-classification",
+                    "key": "draama",
+                    "title": {
+                        "fi": "Draama"
+                    },
+                    "type": "Concept"
+                },
+                {
+                    "id": "21-6",
+                    "inScheme": "finnpanel-genre-classification",
+                    "notation": [
+                        {
+                            "value": "5",
+                            "valueType": "finnpanel-notation"
+                        }
+                    ],
+                    "title": {
+                        "en": "Domestic Fiction",
+                        "fi": "Kotimainen fiktio"
+                    },
+                    "type": "Concept"
+                }
+            ],
+            "title": {
+                "fi": "Koukussa",
+                "sv": "P\u00e5 kroken"
+            },
+            "type": "TVSeries"
+        },
+        "productionId": "53913105000",
+        "promotionTitle": {
+            "fi": "Kaksoisrooli paljastuu, mutta Krista ei aio en\u00e4\u00e4 paeta"
+        },
+        "publicationEvent": [
+            {
+                "duration": "PT50M",
+                "endTime": "2015-12-03T22:45:00+02:00",
+                "id": "4-4892768",
+                "media": {},
+                "region": "World",
+                "service": {
+                    "id": "tv-finland"
+                },
+                "startTime": "2015-12-03T21:55:00+02:00",
+                "temporalStatus": "in-past",
+                "type": "ScheduledTransmission"
+            },
+            {
+                "duration": "PT50M4S",
+                "endTime": "2015-12-02T21:50:04+02:00",
+                "id": "4-4311667",
+                "media": {},
+                "region": "World",
+                "service": {
+                    "id": "yle-tv2"
+                },
+                "startTime": "2015-12-02T21:00:00+02:00",
+                "temporalStatus": "in-past",
+                "type": "ScheduledTransmission"
+            },
+            {
+                "duration": "P3M1DT2H55M59S",
+                "endTime": "2016-02-05T23:59:59+02:00",
+                "id": "4-4799128",
+                "media": {
+                    "available": true,
+                    "contentProtection": [
+                        {
+                            "id": "22-1",
+                            "type": "ContentProtectionPolicy"
+                        }
+                    ],
+                    "downloadable": false,
+                    "duration": "PT48M26S",
+                    "id": "6-25a3621dd2094f8eb79620cc642a3e8a",
+                    "type": "VideoObject"
+                },
+                "publisher": [
+                    {
+                        "id": "yle-tv2"
+                    }
+                ],
+                "region": "World",
+                "service": {
+                    "id": "yle-areena"
+                },
+                "startTime": "2015-11-04T21:04:00+02:00",
+                "temporalStatus": "in-past",
+                "type": "OnDemandPublication"
+            },
+            {
+                "duration": "PT49M57S",
+                "endTime": "2015-12-04T23:00:00+02:00",
+                "id": "4-4311706",
+                "media": {},
+                "region": "World",
+                "service": {
+                    "id": "yle-tv2"
+                },
+                "startTime": "2015-12-04T22:10:03+02:00",
+                "temporalStatus": "in-past",
+                "type": "ScheduledTransmission"
+            },
+            {
+                "duration": "PT49M47S",
+                "endTime": "2015-12-09T02:00:04+02:00",
+                "id": "4-4312039",
+                "media": {},
+                "region": "World",
+                "service": {
+                    "id": "yle-tv2"
+                },
+                "startTime": "2015-12-09T01:10:17+02:00",
+                "temporalStatus": "in-past",
+                "type": "ScheduledTransmission"
+            }
+        ],
+        "subject": [
+            {
+                "broader": {
+                    "id": "5-130"
+                },
+                "id": "5-131",
+                "inScheme": "areena-content-classification",
+                "key": "sarjatjaelokuvat",
+                "title": {
+                    "fi": "Sarjat ja elokuvat",
+                    "sv": "Serier och film"
+                },
+                "type": "Concept"
+            },
+            {
+                "broader": {
+                    "id": "5-131"
+                },
+                "id": "5-137",
+                "inScheme": "areena-content-classification",
+                "key": "jannitys",
+                "title": {
+                    "fi": "J\u00e4nnitys",
+                    "sv": "Sp\u00e4nning"
+                },
+                "type": "Concept"
+            },
+            {
+                "broader": {
+                    "id": "5-131"
+                },
+                "id": "5-133",
+                "inScheme": "areena-content-classification",
+                "key": "kotimaisetsarjat",
+                "title": {
+                    "fi": "Kotimaiset sarjat",
+                    "sv": "Inhemska serier"
+                },
+                "type": "Concept"
+            },
+            {
+                "id": "5-262",
+                "inScheme": "areena-analytics-classification",
+                "key": "draama",
+                "title": {
+                    "fi": "Draama"
+                },
+                "type": "Concept"
+            },
+            {
+                "id": "5-271",
+                "inScheme": "areena-analytics-classification",
+                "key": "p\u00e4ivitt\u00e4isdraama",
+                "title": {
+                    "fi": "P\u00e4ivitt\u00e4isdraama"
+                },
+                "type": "Concept"
+            },
+            {
+                "id": "21-6",
+                "inScheme": "finnpanel-genre-classification",
+                "notation": [
+                    {
+                        "value": "5",
+                        "valueType": "finnpanel-notation"
+                    }
+                ],
+                "title": {
+                    "en": "Domestic Fiction",
+                    "fi": "Kotimainen fiktio"
+                },
+                "type": "Concept"
+            }
+        ],
+        "subtitling": [
+            {
+                "language": [
+                    "fi"
+                ],
+                "type": "HardOfHearingSubtitling"
+            }
+        ],
+        "title": {
+            "fi": "Koukussa",
+            "sv": "P\u00e5 kroken"
+        },
+        "type": "TVProgram",
+        "typeCreative": "Program",
+        "typeMedia": "TVContent",
+        "video": {
+            "format": [
+                {
+                    "inScheme": "mediaformat-classification",
+                    "key": "16:9",
+                    "type": "Concept"
+                },
+                {
+                    "inScheme": "mediaformat-classification",
+                    "key": "HD",
+                    "type": "Concept"
+                }
+            ],
+            "language": [],
+            "type": "VideoTrack"
+        }
+    },
+    "meta": {
+        "id": "1-2313989"
+    }
+}
